@@ -16,3 +16,11 @@ console.log(year);
 let score;
 score = 10;
 console.log(score);
+// datatypes: strings, numbers, boolean, null, undefined, Symbol
+const name = 'John';
+const age = 30;
+const rating = 4.5;
+const isCool = true;
+const x = null;
+const y = undefined;
+let z;
