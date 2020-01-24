@@ -24,3 +24,11 @@ const isCool = true;
 const x = null;
 const y = undefined;
 let z;
+// test datatypes
+console.log(typeof name); // string
+console.log(typeof age); // number
+console.log(typeof rating); // number
+console.log(typeof isCool); // boolean
+console.log(typeof x); // object
+console.log(typeof y); // undefined
+console.log(typeof z); // undefined
