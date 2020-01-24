@@ -11,3 +11,8 @@ console.log(age);
 const year = 1930
 // year = 1940; Uncaught TypeError: Assignment to constant variable.
 console.log(year);
+// always use const unless you know you're going to reassign the value
+// use let when circumstances dictate that the variable will change
+let score;
+score = 10;
+console.log(score);
